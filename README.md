@@ -6,7 +6,7 @@ Task 1: Basic Banking System
 
 The Basic Banking System website function is to transfer money from one account to another account and to show the transactions that have happened so far on the website.
 
-***FrontEnd: HTML, CSS***
+***FrontEnd: HTML, CSS, JS***
 
 ***Backend: PHP***
 
